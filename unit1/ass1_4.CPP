@@ -1,3 +1,7 @@
+
+/*Develop a program to identify and efficiently store a sparse 
+matrix using compact representation and perform basic 
+operations like display and simple transpose. */
 #include <iostream>
 using namespace std;
 

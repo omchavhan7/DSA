@@ -1,3 +1,8 @@
+/*Write a program to input marks of n students Sort the marks in 
+ascending order using the Quick Sort algorithm without using 
+built-in library functions and analyse the sorting algorithm pass 
+by pass. Find the minimum and maximum marks using Divide and 
+Conquer (recursively).*/
 #include <iostream>
 using namespace std;
 

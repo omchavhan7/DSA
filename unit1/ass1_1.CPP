@@ -1,3 +1,8 @@
+/*Implement basic string operations such as length calculation, 
+copy, reverse, and concatenation using character single 
+dimensional arrays without using built-in string library functions.*/
+
+
 #include <iostream>
 using namespace std;
 
@@ -151,7 +156,6 @@ int main()
             cout << "Invalid choice\n";
         }
 
-    } whil  e (choice != 6);
-
+    } while (choice != 6);
     return 0;
 }

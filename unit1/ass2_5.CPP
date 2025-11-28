@@ -1,3 +1,7 @@
+/*Write a program to arrange the list of employees as per the 
+average of their height and weight by using Merge and Selection 
+sorting method. Analyse their time complexities and conclude 
+which algorithm will take less time to sort the list. */
 #include <iostream>
 using namespace std;
 

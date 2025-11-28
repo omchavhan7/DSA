@@ -1,3 +1,6 @@
+/*Write a program to construct and verify a magic square of order 
+'n' (for both even & odd) such that all rows, columns, and 
+diagonals sum to the same value. */
 #include <iostream>
 using namespace std;
 

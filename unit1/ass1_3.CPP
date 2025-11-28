@@ -1,3 +1,6 @@
+/*Implement matrix multiplication and analyse its performance 
+using row-major vs column-major order access patterns to 
+understand how memory layout affects cache performance. */
 #include <iostream>
 using namespace std;
 

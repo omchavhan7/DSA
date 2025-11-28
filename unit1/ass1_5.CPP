@@ -1,3 +1,6 @@
+/*Develop a program to compute the fast transpose of a sparse 
+matrix using its compact (triplet) representation efficiently. */
+
 #include <iostream>
 using namespace std;
 

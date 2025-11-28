@@ -1,3 +1,8 @@
+
+/*WAP to implement Bubble sort and Quick Sort on a 1D array of 
+Student structure (contains student_name, student_roll_no, 
+total_marks), with key as student_roll_no. And count the number 
+of swap performed by each method. */
 #include <iostream>
 using namespace std;
 

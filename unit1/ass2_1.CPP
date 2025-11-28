@@ -1,3 +1,9 @@
+
+/*In Computer Engg. Dept. of VIT there are S.Y., T.Y., and B.Tech. 
+students. Assume that all these students are on ground for a 
+function. We need to identify a student of S.Y. div. (X) whose 
+name is "XYZ" and roll no. is "17". Apply appropriate Searching 
+method to identify the required student. */
 #include <iostream>
 #include <string>
 using namespace std;
